@@ -89,19 +89,4 @@ DevOps is effective because of new methodologies, automation tools, agile resour
 
 8.BENIFTS OF DEVOPS?
 
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-devops.txt[+] [unix] (07:46 10/12/2023)                                                                                                                                                                                              46,1 All
--- REPLACE --
 
